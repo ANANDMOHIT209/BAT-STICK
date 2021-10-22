@@ -102,18 +102,6 @@ val = digitalRead(inputPin); // read input value
       delay(500);
       digitalWrite(ledSOS, LOW);
       delay(500);
-       digitalWrite(ledSOS, HIGH);
-      delay(500);
-      digitalWrite(ledSOS, LOW);
-      delay(500);
-       digitalWrite(ledSOS, HIGH);
-      delay(500);
-      digitalWrite(ledSOS, LOW);
-      delay(500);
-       digitalWrite(ledSOS, HIGH);
-      delay(500);
-      digitalWrite(ledSOS, LOW);
-      delay(500);
    }  
 
    delay(50);
